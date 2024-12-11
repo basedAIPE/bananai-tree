@@ -1,0 +1,7 @@
+After initial review, need to address:
+- hallucinated uniswap functions
+- oracle maniuplation susceptibility
+- flash loan attack susceptibility
+- fund rescue manager exploits
+- gas inefficiency
+- review all maths
